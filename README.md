@@ -13,7 +13,7 @@ This is a list of a few of the small apps I've created over the years to learn a
 - [Back End](#back-end)
   * [GraphQL Server](#graphql-server)
   * [Node Scripting (Command-line executable)](#node-scripting--command-line-executable-)
-  * [Serverless Function (AWS Lambda)](#serverless-function--aws-lambda-)
+  * [Serverless Function (AWS Lambda)](#serverless-function-aws-lambda)
 - [Other (Full Stack)](#other--full-stack-)
   * [Artificial Intelligence (Facial Tracking)](#artificial-intelligence--facial-tracking-)
   * [TDD (Test Driven Development)](#tdd--test-driven-development-)
@@ -117,7 +117,7 @@ Uses simple-git to clone a list of repos in one command-line executable.
 - Deployed (none)
 - Git Repo [student-grading-script](https://github.com/wallacepreston/student-grading-script)
 
-## Serverless Function (AWS Lambda)
+## Serverless Function AWS Lambda
 Email Service using AWS Lambda and SES, deployed via Serverless Framework and GitHub Actions
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/wallacepreston/email-service?style=flat)
