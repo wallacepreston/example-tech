@@ -3,6 +3,24 @@ This is a list of a few of the small apps I've created over the years to learn a
 
 <small>**Disclaimer:** Some of these are older apps, since I mainly look forward to new tech. 🤓  If you don't find an example of what you're looking for in one, it's likely implemented in another!  Some are deployed, while others are not.</small>
 
+- [Front End](#front-end)
+  * [React SSR (Server Side Rendered)](#react-ssr--server-side-rendered-)
+  * [React Context](#react-context)
+  * [Gatsby with Headless Wordpress](#gatsby-with-headless-wordpress)
+  * [Vue with Vuetify](#vue-with-vuetify)
+  * [React Native](#react-native)
+  * [Vanilla Functional React](#vanilla-functional-react)
+- [Back End](#back-end)
+  * [GraphQL Server](#graphql-server)
+  * [Node Scripting (Command-line executable)](#node-scripting--command-line-executable-)
+  * [Serverless Function (AWS Lambda)](#serverless-function--aws-lambda-)
+- [Other (Full Stack)](#other--full-stack-)
+  * [Artificial Intelligence (Facial Tracking)](#artificial-intelligence--facial-tracking-)
+  * [TDD (Test Driven Development)](#tdd--test-driven-development-)
+  * [JS Classes (Roomba implementation)](#js-classes--roomba-implementation-)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 <hr/>
 
 # Front End
@@ -99,7 +117,7 @@ Uses simple-git to clone a list of repos in one command-line executable.
 - Deployed (none)
 - Git Repo [student-grading-script](https://github.com/wallacepreston/student-grading-script)
 
-## Serverless Function
+## Serverless Function (AWS Lambda)
 Email Service using AWS Lambda and SES, deployed via Serverless Framework and GitHub Actions
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/wallacepreston/email-service?style=flat)
