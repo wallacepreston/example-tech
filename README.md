@@ -51,6 +51,27 @@ A frontend-only Vue app that uses Vuetify styled components for styling
 - Deployed [re-cashflow](http://re-cashflow.herokuapp.com/)
 - Git Repo [cashflow-vue](https://github.com/wallacepreston/cashflow-vue)
 
+## React Native
+Overly-simplified example of Native app using React Native
+
+![GitHub repo size](https://img.shields.io/github/repo-size/wallacepreston/doglistreactnative?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/wallacepreston/doglistreactnative?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/wallacepreston/doglistreactnative?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/wallacepreston/doglistreactnative?color=green&style=flat)
+![GitHub last commit](https://img.shields.io/github/commit-activity/y/wallacepreston/doglistreactnative?color=yellow&style=flat)
+- Deployed (none)
+- Git Repo [doglistreactnative](https://github.com/wallacepreston/doglistreactnative)
+
+## Vanilla Functional React
+While I have other React applications, this is an extremely simple implementation using functional components and hooks.
+
+![GitHub repo size](https://img.shields.io/github/repo-size/wallacepreston/choose-murray?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/wallacepreston/choose-murray?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/wallacepreston/choose-murray?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/wallacepreston/choose-murray?color=green&style=flat)
+![GitHub last commit](https://img.shields.io/github/commit-activity/y/wallacepreston/choose-murray?color=yellow&style=flat)
+- Deployed (none)
+- Git Repo [choose-murray](https://github.com/wallacepreston/choose-murray)
 
 <hr/>
 
@@ -78,6 +99,18 @@ Uses simple-git to clone a list of repos in one command-line executable.
 - Deployed (none)
 - Git Repo [student-grading-script](https://github.com/wallacepreston/student-grading-script)
 
+## Serverless Function
+Email Service using AWS Lambda and SES, deployed via Serverless Framework and GitHub Actions
+
+![GitHub repo size](https://img.shields.io/github/repo-size/wallacepreston/email-service?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/wallacepreston/email-service?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/wallacepreston/email-service?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/wallacepreston/email-service?color=green&style=flat)
+![GitHub last commit](https://img.shields.io/github/commit-activity/y/wallacepreston/email-service?color=yellow&style=flat)
+- Deployed (ask for link, I prefer not to post it publicly, so it doesn't get spammed)
+- Git Repo [email-service](https://github.com/wallacepreston/email-service)
+
+
 <hr/>
 
 # Other (Full Stack)
@@ -104,17 +137,15 @@ A collection of tests written with jest. Testing vanilla JS, Database queries, A
 - Deployed (none)
 - Git Repo [tdd-node](https://github.com/wallacepreston/tdd-node)
 
+## JS Classes (Roomba implementation)
+A contrived "roomba" example to demonstrate usage of JS Classes
+
+![GitHub repo size](https://img.shields.io/github/repo-size/wallacepreston/roomba?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/wallacepreston/roomba?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/wallacepreston/roomba?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/wallacepreston/roomba?color=green&style=flat)
+![GitHub last commit](https://img.shields.io/github/commit-activity/y/wallacepreston/roomba?color=yellow&style=flat)
+- Deployed (none)
+- Git Repo [roomba](https://github.com/wallacepreston/roomba)
 
 
-<!-- 
-Vanilla JS
-React (vanilla react)
-Redux
-Sequelize
-Authentication (JWT)
-Authentication (Sessions)
-
-TODO
-CSS Styling
-React Suspense
- -->
