@@ -10,6 +10,7 @@ This is a list of a few of the small apps I've created over the years to learn a
   * [Vue with Vuetify](#vue-with-vuetify)
   * [React Native](#react-native)
   * [Vanilla Functional React](#vanilla-functional-react)
+  * [Tailwind CSS](#tailwind-css)
 - [Back End](#back-end)
   * [GraphQL Server](#graphql-server)
   * [Node Scripting (Command-line executable)](#node-scripting--command-line-executable-)
