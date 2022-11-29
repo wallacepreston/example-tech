@@ -93,6 +93,20 @@ While I have other React applications, this is an extremely simple implementatio
 
 <hr/>
 
+## Tailwind CSS
+A simple login form via Tailwind CSS
+
+![GitHub repo size](https://img.shields.io/github/repo-size/wallacepreston/tailwind-login-form?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/wallacepreston/tailwind-login-form?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/wallacepreston/tailwind-login-form?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/wallacepreston/tailwind-login-form?color=green&style=flat)
+![GitHub last commit](https://img.shields.io/github/commit-activity/y/wallacepreston/tailwind-login-form?color=yellow&style=flat)
+- Deployed https://github.com/wallacepreston/tailwind-login-form
+- Git Repo [choose-murray](https://github.com/wallacepreston/tailwind-login-form)
+
+<hr/>
+
+
 # Back End
 
 ## GraphQL Server
