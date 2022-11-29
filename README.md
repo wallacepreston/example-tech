@@ -102,7 +102,7 @@ A simple login form via Tailwind CSS
 ![GitHub last commit](https://img.shields.io/github/last-commit/wallacepreston/tailwind-login-form?color=green&style=flat)
 ![GitHub last commit](https://img.shields.io/github/commit-activity/y/wallacepreston/tailwind-login-form?color=yellow&style=flat)
 - Deployed https://github.com/wallacepreston/tailwind-login-form
-- Git Repo [choose-murray](https://github.com/wallacepreston/tailwind-login-form)
+- Git Repo [tailwind-login-form](https://github.com/wallacepreston/tailwind-login-form)
 
 <hr/>
 
